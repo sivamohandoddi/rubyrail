@@ -1,3 +1,4 @@
+Dir.chdir "task2"
 Dir.mkdir("RubyTest")
 Dir.chdir "RubyTest"
 f = File.open("test_file", "w")
